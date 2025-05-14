@@ -1,0 +1,29 @@
+Added Local Storage Support:
+Captions are now saved automatically
+Video URL is persisted between sessions
+All data is restored when the page is reloaded
+Enhanced Caption Management:
+Added edit functionality for existing captions
+Added delete functionality
+Added validation for caption inputs
+Better error handling and feedback
+Improved UI:
+Professional header with navigation items
+Modern glassmorphism design
+Better spacing and typography
+Improved video player layout
+Enhanced caption display
+Added loading states and empty states
+Better responsive design
+New Features:
+Caption list with edit/delete controls
+Caption counter
+Better timestamp input with validation
+Improved caption text input with textarea
+Better error messages
+Smooth transitions and animations
+Better Organization:
+Separated concerns between components
+Better state management
+Improved code structure
+Added proper TypeScript-like prop validation
